@@ -5,6 +5,6 @@ let num=23;
             count++;
         }
     }
-    if(count<=2){
+    if(count<2){
         console.log("Yes");
 }else console.log("No");
